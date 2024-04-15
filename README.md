@@ -1,4 +1,4 @@
-# Mushroom-Classification
+**# Mushroom-Classification
 1) Exploring the data(Performing EDA)
 2) Dividing the data into x and y
 3) Converting string(catagorical) features to numerical features
@@ -6,3 +6,4 @@
 5) Implementing logistic regression Model (Algo1)
 6) Implementing Random Forest
 
+**
